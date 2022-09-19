@@ -1,0 +1,4 @@
+version: "3"
+services:
+  hello-app-testc:
+    image: hello-app:version1.0
